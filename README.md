@@ -1,6 +1,6 @@
 # Testing isomorphism between tuples of subspaces
 
-Given two tuples of subspaces, or more precisely, orthonormal bases for those subspaces, can you tell whether the tuples are isomorphic? Some algorithms to test for isomorphism are posted here.
+Given two tuples of subspaces, or more precisely, orthonormal bases for those subspaces, can you tell whether the tuples are isomorphic? Some Matlab code to test for isomorphism are posted here.
 
 Code to compute an injective invariant (normalized Gram) for tuples in the Grassmannian of planes in R^d modulo O(d) given a Gram matrix of orthobases for those planes is norgPlanesGram.m.
 
